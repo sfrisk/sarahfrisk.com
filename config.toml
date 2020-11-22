@@ -1,0 +1,18 @@
+baseURL = "https://sarahfrisk.com/"
+languageCode = "en-us"
+title = "Sarah Frisk"
+canonifyURLs = true
+theme = "2020theme"
+staticDir = "static"
+assetDir = "static"
+[author]
+  name = "S Frisk"
+  email = "hello@sarahfrisk.com"
+
+[params]
+  twitter = "sarahfrisk"
+  instagram = "friskycomics"
+  patreon = "friskycomics"
+  webtoon = "https://www.webtoons.com/en/challenge/tavern-wenches/list?title_no=511037"
+  og_type = "website"
+  og_local = "en-US"

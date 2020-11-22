@@ -1,0 +1,26 @@
+:root {
+  --white: #f0e2f8;
+  --black: #131314;
+  --primary001: #bea4d2;
+  --primary002: #7165b2;
+  --primary003: #423873;
+  --secondary001: #bdccff;
+  --secondary002: #8c9de2;
+
+  --site__font: 'Source Sans Pro', sans-serif;
+  --site__font-alt: 'Glass Antiqua', cursive;
+  --site__bg: var(--white);
+  --site__color: var(--black);
+  --site__link: var(--primary002);
+  --site__link--active: var(--primary003);
+  --site__bold: var(--secondary002);
+  --site__header: var(--primary003);
+
+  --button__bg: var(--primary002);
+  --button__border: 2px solid var(--primary002);
+  --button__color: var(--white);
+  --button__border--hover: 2px solid var(--primary003);
+  --button__bg--hover: var(--primary003);
+  --button__color--hover: var(--white);
+
+}
