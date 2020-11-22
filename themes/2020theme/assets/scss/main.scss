@@ -74,18 +74,8 @@ h1, h2, h3 {
   font-size: .7em;
   text-align: center;
   position: relative;
-  &::before {
-    display: block;
-    content: '';
-    background: var(--site--footer__bg);
-    top: -30px;
-    width: 110%;
-    height: 100px;
-    left: -5%;
-    position: absolute;
-    transform:rotate(-2deg);
-    z-index: -1;
-  }
+  padding-top: 1em;
+  clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 100%);
   a {
     color: var(--site-footer__link);
     &:hover, &:active, &:focus {
