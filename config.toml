@@ -1,4 +1,4 @@
-baseURL = "https://sarahfrisk.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Sarah Frisk"
 canonifyURLs = true
