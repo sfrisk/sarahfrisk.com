@@ -12,11 +12,11 @@ Currently, I’m a Senior Software Engineer at [Simplecast](https://simplecast.c
 * [Twitter](https://twitter.com/SarahFrisk)
 * [Instagram](https://www.instagram.com/friskycomics/)
 
+## Comic
+* [Tavern Wenches](https://tavern-wenches.com/)
+* [Patreon](https://www.patreon.com/friskycomics)
+
 ## Code
 * [Codepen](https://codepen.io/sfrisk)
 * [Medium](https://medium.com/@sarahfrisk)
 * [Github](https://github.com/sfrisk/)
-
-## Art
-* [Tavern Wenches](https://tavern-wenches.com/)
-* [Patreon](https://www.patreon.com/friskycomics)
