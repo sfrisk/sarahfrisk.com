@@ -4,7 +4,8 @@
 @import "./base/theme_light.scss";
 @import "./base/theme_dark.scss";
 
-html, body {
+html,
+body {
   background: var(--site__bg);
   color: var(--site__color);
   font-family: var(--site__font);
@@ -15,6 +16,7 @@ html, body {
 body {
   font-size: 1.2em;
   line-height: 1.75;
+
   @media (min-width: $bp_md) {
     font-size: 1.5em;
   }
@@ -22,7 +24,9 @@ body {
 
 a {
   color: var(--site__link);
-  &:hover, &:active {
+
+  &:hover,
+  &:active {
     color: var(--site__link--active);
   }
 }
@@ -31,7 +35,9 @@ strong {
   font-weight: bold;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-family: var(--site__font-alt);
   font-weight: normal;
   color: var(--site__header);
@@ -47,15 +53,17 @@ h1, h2, h3 {
   h2 {
     text-align: center;
   }
+
   ul {
     padding: 0;
   }
+
   li {
     list-style: none;
     padding: 1em 0;
+
     a {
       text-decoration: none;
-
       font-weight: bold;
       margin: 0 auto;
       padding: .5em;
@@ -65,7 +73,10 @@ h1, h2, h3 {
       background: var(--button__bg);
       color: var(--button__color);
       border: var(--button__border);
-      &:hover, &:active, &:focus {
+
+      &:hover,
+      &:active,
+      &:focus {
         color: var(--button__color--hover);
         border: var(--button__border--hover);
         background: var(--button__bg--hover);
@@ -78,14 +89,19 @@ h1, h2, h3 {
   margin-top: 3em;
   background: var(--site--footer__bg);
   color: var(--site-footer__color);
-  font-size: .7em;
+  font-size: .65em;
   text-align: center;
   position: relative;
   padding-top: 1em;
+  line-height: 1.2;
   clip-path: polygon(0 15%, 100% 0%, 100% 100%, 0 100%);
+
   a {
     color: var(--site-footer__link);
-    &:hover, &:active, &:focus {
+
+    &:hover,
+    &:active,
+    &:focus {
       color: var(--site-footer__link--active);
     }
   }
