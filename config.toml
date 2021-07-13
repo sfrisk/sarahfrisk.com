@@ -12,7 +12,7 @@ assetDir = "static"
 [params]
   twitter = "sarahfrisk"
   instagram = "friskycomics"
-  patreon = "friskycomics"
+  # patreon = "friskycomics"
   webtoon = "https://www.webtoons.com/en/challenge/tavern-wenches/list?title_no=511037"
   og_type = "website"
   og_local = "en-US"
