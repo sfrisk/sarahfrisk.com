@@ -15,6 +15,8 @@ Currently, I’m a Lead Front End Engineer at [Simplecast](https://simplecast.co
 ## Follow Me 
 * [Twitter](https://twitter.com/SarahFrisk)
 * [Instagram](https://www.instagram.com/friskycomics/)
+* {{< rawhtml >}}<a rel="me" href="https://mastodon.art/@friskycomics">Mastodon</a>{{< /rawhtml >}}
+* [Itch.io](https://sfrisk.itch.io)
 * [Codepen](https://codepen.io/sfrisk)
 * [Github](https://github.com/sfrisk/)
 * [Medium](https://medium.com/@sarahfrisk)
