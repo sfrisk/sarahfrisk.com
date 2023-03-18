@@ -6,7 +6,7 @@ subtitle: Where Code Meets Art
 
 Hi, I’m Sarah. I’m a **UX Engineer** and **Storyteller** specializing in crafting scalable front end applications and finding ways to tell stories in an accessible manner.
 
-Currently, I’m a Lead Front End Engineer at [Simplecast](https://simplecast.com/) and creator of [Tavern Wenches](https://tavern-wenches.com/).
+Currently, I’m a Staff Software Engineer at [Simplecast](https://simplecast.com/) (aquired by SiriusXM in 2020) and creator of [Tavern Wenches](https://tavern-wenches.com/).
 
 ## Comic & Code Creations
 * [Tavern Wenches](https://tavern-wenches.com/)
