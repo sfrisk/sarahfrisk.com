@@ -14,7 +14,7 @@ Currently, I’m a Staff Software Engineer at [Simplecast](https://simplecast.co
 
 ## Follow Me 
 * [Twitter](https://twitter.com/SarahFrisk)
-* [Instagram](https://www.instagram.com/friskycomics/)
+* [Instagram](https://www.instagram.com/friskymakes/)
 * {{< rawhtml >}}<a rel="me" href="https://mastodon.art/@friskycomics">Mastodon</a>{{< /rawhtml >}}
 * [Itch.io](https://sfrisk.itch.io)
 * [Codepen](https://codepen.io/sfrisk)
