@@ -19,4 +19,5 @@ Currently, I’m a Staff Software Engineer at [Simplecast](https://simplecast.co
 * [Itch.io](https://sfrisk.itch.io)
 * [Codepen](https://codepen.io/sfrisk)
 * [Github](https://github.com/sfrisk/)
+* [Linkedin](https://www.linkedin.com/in/sarahfrisk/)
 * [Medium](https://medium.com/@sarahfrisk)
