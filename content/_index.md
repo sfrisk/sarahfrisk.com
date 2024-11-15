@@ -13,7 +13,6 @@ Currently, I’m a Staff Software Engineer at [Simplecast](https://simplecast.co
 * [Avatar Maker](https://avatar-maker.sarahfrisk.com/)
 
 ## Follow Me 
-* [Twitter](https://twitter.com/SarahFrisk)
 * [Instagram](https://www.instagram.com/friskymakes/)
 * {{< rawhtml >}}<a rel="me" href="https://mastodon.art/@friskycomics">Mastodon</a>{{< /rawhtml >}}
 * [Itch.io](https://sfrisk.itch.io)
